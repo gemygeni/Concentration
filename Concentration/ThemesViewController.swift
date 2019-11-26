@@ -16,8 +16,6 @@ class ThemesViewController: UIViewController, UISplitViewControllerDelegate {
     ]
  
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-       //  Get the new view controller using segue.destination.
-      //   Pass the selected object to the new view controller.
         if segue.identifier == "choose theme"{
             if let themeName = (sender as? UIButton)?.currentTitle , let theme = themes[themeName]{
                  if let cvc = segue.destination as? concentrationViewController{

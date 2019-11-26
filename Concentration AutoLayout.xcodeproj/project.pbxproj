@@ -19,7 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EF0E3578221CC2B400C4A9DF /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF0E3578221CC2B400C4A9DF /* Concentration AutoLayoutAutoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Concentration AutoLayoutAutoLayout.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF0E357B221CC2B400C4A9DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EF0E357D221CC2B400C4A9DF /* concentrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = concentrationViewController.swift; sourceTree = "<group>"; };
 		EF0E3580221CC2B400C4A9DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		EF0E3579221CC2B400C4A9DF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EF0E3578221CC2B400C4A9DF /* Concentration.app */,
+				EF0E3578221CC2B400C4A9DF /* Concentration AutoLayoutAutoLayout.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -79,9 +79,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EF0E3577221CC2B400C4A9DF /* Concentration */ = {
+		EF0E3577221CC2B400C4A9DF /* Concentration AutoLayoutAutoLayout */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF0E358A221CC2B600C4A9DF /* Build configuration list for PBXNativeTarget "Concentration" */;
+			buildConfigurationList = EF0E358A221CC2B600C4A9DF /* Build configuration list for PBXNativeTarget "Concentration AutoLayoutAutoLayout" */;
 			buildPhases = (
 				EF0E3574221CC2B400C4A9DF /* Sources */,
 				EF0E3575221CC2B400C4A9DF /* Frameworks */,
@@ -91,9 +91,9 @@
 			);
 			dependencies = (
 			);
-			name = Concentration;
+			name = "Concentration AutoLayoutAutoLayout";
 			productName = Consentration;
-			productReference = EF0E3578221CC2B400C4A9DF /* Concentration.app */;
+			productReference = EF0E3578221CC2B400C4A9DF /* Concentration AutoLayoutAutoLayout.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -111,7 +111,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EF0E3573221CC2B400C4A9DF /* Build configuration list for PBXProject "Concentration" */;
+			buildConfigurationList = EF0E3573221CC2B400C4A9DF /* Build configuration list for PBXProject "Concentration AutoLayout" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -124,7 +124,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EF0E3577221CC2B400C4A9DF /* Concentration */,
+				EF0E3577221CC2B400C4A9DF /* Concentration AutoLayoutAutoLayout */,
 			);
 		};
 /* End PBXProject section */
@@ -333,7 +333,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EF0E3573221CC2B400C4A9DF /* Build configuration list for PBXProject "Concentration" */ = {
+		EF0E3573221CC2B400C4A9DF /* Build configuration list for PBXProject "Concentration AutoLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EF0E3588221CC2B600C4A9DF /* Debug */,
@@ -342,7 +342,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF0E358A221CC2B600C4A9DF /* Build configuration list for PBXNativeTarget "Concentration" */ = {
+		EF0E358A221CC2B600C4A9DF /* Build configuration list for PBXNativeTarget "Concentration AutoLayoutAutoLayout" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EF0E358B221CC2B600C4A9DF /* Debug */,
